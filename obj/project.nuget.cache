@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZW33PIbMDSV1VTD7KvDRngwiZxOPtq94sbkoHceMAitiHxfA2xGl6J9XBD4w3mQJ2gzzEX4lZWcRR5IwzHc72w==",
+  "dgSpecHash": "xN+CsDZLM65JfFs/y8L2ug59OZFttnsXHIB9DxejYxaGJXNZsfBI8GU7mn/9jH8QhohWbdb98o0u3iU+zwJYWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\OneDrive\\Escritorio\\Practica de Formularios\\TareaProgramacion\\TareaProgramacion\\TareaProgramacion.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\OneDrive\\Escritorio\\TareaDeProgramación\\TareaProgramacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
